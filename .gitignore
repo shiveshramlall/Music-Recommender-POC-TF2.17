@@ -1,3 +1,9 @@
+# Added
+spotify_auth.py
+model/
+millionplaylistsubset/
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
